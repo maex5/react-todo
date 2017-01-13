@@ -1,7 +1,7 @@
 var React = require('react');
 
 var TodoSearch = React.createClass({
-  handleSubmit: function () {
+  handleSearch: function () {
     var showCompleted = this.refs.showCompleted.checked;
     var searchText = this.refs.searchText.value;
 
