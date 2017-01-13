@@ -1,1 +1,3 @@
-React Todo-list App
+# React Todo-list App
+- Add & complete todos
+- Search function
